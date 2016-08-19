@@ -1,6 +1,6 @@
 # Atoms - Li
 
-Átomo do Lítio, inicialmente em pt-br.
+Átomo do Estrôncio, inicialmente em pt-br.
 
 ## Estrutura
 
