@@ -1,4 +1,4 @@
-# Atoms - Sr
+# Atoms - Rb
 
 Átomo do Estrôncio, inicialmente em pt-br.
 
@@ -6,8 +6,8 @@
 
 ```js
 module.exports = { 
-  simbolo: 'Sr', 
-  nome: 'estrôncio',
+  simbolo: 'Rb', 
+  nome: 'Rubídio',
   familia: {
     {      
       coluna: '2'

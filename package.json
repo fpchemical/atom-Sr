@@ -1,8 +1,8 @@
 {
-  "name": "atom-sr",
-  "version": "1.0.3",
-  "description": "Propriedades do átomo de Estrôncio",
-  "main": "atom-ra.js",
+  "name": "atom-rb",
+  "version": "1.0.0",
+  "description": "Propriedades do átomo de Rubídio",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suissa/atom-Sr.git"
+    "url": "git+https://github.com/suissa/atom-Rb.git"
   },
   "keywords": [
     "atom",
     "átomo",
-    "sr",
-    "Estrôncio",
+    "rb",
+    "Rubídio",
     "química",
     "chemistry",
     "webschool"
@@ -24,7 +24,7 @@
   "author": "Suissa",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/suissa/atom-Sr/issues"
+    "url": "https://github.com/suissa/atom-Rb/issues"
   },
-  "homepage": "https://github.com/suissa/atom-Sr#readme"
+  "homepage": "https://github.com/suissa/atom-Rb#readme"
 }
