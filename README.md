@@ -1,4 +1,4 @@
-# Atoms - Li
+# Atoms - Sr
 
 Átomo do Estrôncio, inicialmente em pt-br.
 
@@ -10,10 +10,10 @@ module.exports = {
   nome: 'lítio',
   familia: {
     {      
-      coluna: '1'
+      coluna: '2'
     }, 
     {
-      grupo: '1A'
+      grupo: '2A'
     }, 
     {
       descritiva: ''
