@@ -1,6 +1,6 @@
 {
   "name": "atom-sr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Propriedades do átomo de Estrôncio",
   "main": "atom-ra.js",
   "dependencies": {},
