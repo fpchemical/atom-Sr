@@ -6,8 +6,8 @@
 
 ```js
 module.exports = { 
-  simbolo: 'Li', 
-  nome: 'lítio',
+  simbolo: 'Sr', 
+  nome: 'estrôncio',
   familia: {
     {      
       coluna: '2'
